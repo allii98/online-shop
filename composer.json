@@ -1,0 +1,8 @@
+{
+    "name": "hore/tugas",
+    "type": "yes",
+    "license": "no",
+    "require": {
+        "pusher/pusher-php-server": "^3.4"
+    }
+}
